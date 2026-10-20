@@ -1,0 +1,8 @@
+name: TwilightKits
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  kit:
+    description: Opens the Twilight Kits UI.
+    usage: /kit
